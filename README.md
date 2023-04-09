@@ -35,3 +35,31 @@ Azure technologies used for Project:
 -Provided information about the vaccines.
 
 -Covid Health Services.
+
+## Screenshots
+
+
+### Tech stack
+
+-Azure (Hosting)
+
+-HTML
+
+-CSS
+
+-Bootstrap
+
+-JavaScript
+
+
+
+
+
+
+
+
+
+
+
+
+
