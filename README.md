@@ -1,6 +1,6 @@
 # Gleam
  
-This is a web application designed for beauty solutions and tips for skin.
+-This is a web application designed for beauty solutions and tips for skin.
 
 ### This web application is based on beauty and Health solutions has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -15,24 +15,24 @@ This is a web application designed for beauty solutions and tips for skin.
 2.Health bot
 
 ## Features of web application:
-*Beauty tips for fresh a start.
+1.Beauty tips for fresh a start.
 
-*Naturally Effective Health Solutions.
+2.Naturally Effective Health Solutions.
 
-*Provided visual affect and architecture. 
+3.Provided visual affect and architecture. 
 
-*Has web page including Home, About, Gallery, Contact, Services, Health Bot etc.
+4.Has web page including Home, About, Gallery, Contact, Services, Health Bot etc.
 
--Clients can know the information about the Beauty and Health related information.
+5.Clients can know the information about the Beauty and Health related information.
 
--Included 30% off for all the massages.
+6.Included 30% off for all the massages.
 
 ## Advantages of Web application
--Naturally Effective Health Solutions.
+1.Naturally Effective Health Solutions.
 
--Sevices provided like Medi-SPA & Massage, Cosmetic Procedures, Facial Care, Paired Procedures etc.
+2.Sevices provided like Medi-SPA & Massage, Cosmetic Procedures, Facial Care, Paired Procedures etc.
 
--Provided Beauty And Health Services.
+3.Provided Beauty And Health Services.
 
 
 ## screenshots
@@ -61,15 +61,12 @@ This is a web application designed for beauty solutions and tips for skin.
 
 ### Tech stack
 
--Azure (Hosting)
+1.Azure (Hosting)
 
--HTML
+2.HTML
 
--CSS
+3.CSS
 
--Bootstrap
-
--JavaScript
 
 
 
