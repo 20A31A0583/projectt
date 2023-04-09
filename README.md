@@ -6,7 +6,7 @@ This is a web application designed for beauty solutions and tips for skin.
 
 **Project Link** - https://white-cliff-020835700.3.azurestaticapps.net/
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/2w7uatlhkoE
 
 ## Azure technologies used for Project:
 
