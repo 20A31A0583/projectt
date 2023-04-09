@@ -10,9 +10,9 @@ This is a web application designed for beauty solutions and tips for skin.
 
 ## Azure technologies used for Project:
 
-*Static web apps
+1.Static web apps
 
-*Health bot
+2.Health bot
 
 ## Features of web application:
 *Beauty tips for fresh a start.
