@@ -8,7 +8,7 @@ This is a web application designed for beauty solutions and tips for skin.
 
 **project demo video link** - 
 
-Azure technologies used for Project:
+## Azure technologies used for Project:
 
 -Static web apps
 
