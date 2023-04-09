@@ -1,12 +1,12 @@
-# gleam
+# Gleam
  
 This is a web application designed for beauty solutions and tips for skin.
 
-### This web application is based on beauty tips for skin has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web application is based on beauty and Health solutions has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 **Project Link** - https://white-cliff-020835700.3.azurestaticapps.net/
 
-project demo video link - 
+**project demo video link** - 
 
 Azure technologies used for Project:
 
@@ -14,27 +14,25 @@ Azure technologies used for Project:
 
 -Health bot
 
-## Functionalities of web application:
--Latest and Updated of cases, deaths, vaccinations.
+## Features of web application:
+-Beauty tips for fresh a start.
 
--Vaccination Information: Also provided information about the COVID-19 vaccines.
+-Naturally Effective Health Solutions.
 
--Have an aesthetically visual affect and architecture. 
+-Provided visual affect and architecture. 
 
--Has collection of many web pages including Home, About, Contact, Services, healthbot and covid related information etc.
+-Has web page including Home, About, Gallery, Contact, Services, Health Bot etc.
 
--User can know about the information to prevent the covid-19 through this website.
+-Clients can know the information about the Beauty and Health related information.
 
--Included the free consultation in the about section in the website.
+-Included 30% off for all the massages.
 
 ## Advantages of Web application
--Checking the latest news and updates on the COVID-19 pandemic, such as the number of cases, deaths, and recoveries in their area.
+-Naturally Effective Health Solutions.
 
--Information on how to protect themselves and their loved ones, including advice on hand washing, wearing masks, and social distancing.
+-Sevices provided like Medi-SPA & Massage, Cosmetic Procedures, Facial Care, Paired Procedures etc.
 
--Provided information about the vaccines.
-
--Covid Health Services.
+-Provided Beauty And Health Services.
 
 
 ## screenshots
