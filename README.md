@@ -35,8 +35,22 @@ Azure technologies used for Project:
 -Provided information about the vaccines.
 
 -Covid Health Services.
+## screenshots
 
-## Screenshots
+## Home
+## Screens![Screenshot 2023-04-09 202117](https://user-images.githubusercontent.com/109936304/230780016-10bede47-8603-42e2-a236-63116a80716b.png)
+hots
+
+## About
+
+![Screenshot 2023-04-09 202136](https://user-images.githubusercontent.com/109936304/230780087-6c01b15a-655b-4ec5-aa6d-28247b7d1be9.png)
+
+## Gall![Screenshot 2023-04-09 202240](https://user-images.githubusercontent.com/109936304/230780208-c546e9ea-1e74-4bf7-9331-2f10be4dd116.png)
+ery
+
+![Screenshot 2023-04-09 202221](https://user-images.githubusercontent.com/109936304/230780117-6e75cbd9-78e1-45e2-977e-189e1d4fa043.png)
+## Services
+
 
 
 ### Tech stack
